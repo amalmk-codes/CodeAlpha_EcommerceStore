@@ -1,14 +1,10 @@
 # 🛒 CodeAlpha E-Commerce Store
 
-A full-stack E-Commerce web application developed as part of the CodeAlpha Full Stack Development Internship. https://code-alpha-ecommerce-store-black.vercel.app/
+A full-stack E-Commerce web application developed as part of the CodeAlpha Full Stack Development Internship.
 
 ## 🚀 Live Demo
 
 https://code-alpha-ecommerce-store-black.vercel.app
-
-### Backend API
-
-https://codealpha-store-backend.onrender.com 
 
 ### GitHub Repository
 
