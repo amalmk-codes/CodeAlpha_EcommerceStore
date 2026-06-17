@@ -30,7 +30,6 @@ https://github.com/amalmk-codes/CodeAlpha_EcommerceStore
 * Update Cart Quantity
 * Place Orders
 * View My Orders
-* Dark Mode Support
 
 ### Admin Features
 
